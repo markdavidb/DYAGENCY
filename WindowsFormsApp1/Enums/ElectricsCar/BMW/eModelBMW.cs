@@ -18,7 +18,7 @@ namespace WindowsFormsApp1.Enums.ElectricsCar.BMW
         public int MaxKm { get; set; }
         public int Horsepower { get; set; }
         public int BatteryLife { get; set; }
-        public int BatteryWarranty { get; set; }
+        public int BatteryWarranty { get; set; } // define
     }
 
     public class CarDetailsProvider
