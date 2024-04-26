@@ -5,4 +5,4 @@
 
 
 
-<img src="https://i.imgur.com/8tmoXrv.png" alt="project-screenshot" width="965" height="475/">
+<img src="https://i.imgur.com/8tmoXrv.png" alt="project-screenshot" width="690" height="339/">
