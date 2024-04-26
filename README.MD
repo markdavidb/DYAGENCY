@@ -7,8 +7,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/8tmoXrv.png"  />
-</div>
+<img src="https://i.imgur.com/8tmoXrv.png" alt="project-screenshot" width="690" height="339/">
+
 
 ###
