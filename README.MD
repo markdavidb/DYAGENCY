@@ -1,4 +1,3 @@
-
 <h1 align="left">DYAGENCY</h1>
 
 ###
@@ -7,7 +6,8 @@
 
 ###
 
-<img src="https://i.imgur.com/8tmoXrv.png" alt="project-screenshot" width="690" height="339/">
-
+<div align="center">
+  <img height="" src="https://i.imgur.com/8tmoXrv.png"  />
+</div>
 
 ###
