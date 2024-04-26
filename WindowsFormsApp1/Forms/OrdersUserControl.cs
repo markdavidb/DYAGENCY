@@ -104,6 +104,8 @@ namespace WindowsFormsApp1.Forms
             if (string.IsNullOrEmpty(searchBox.Text))
             {
                 ShowPlaceholderText();
+                RefreshDataGridView();
+
             }
         }
 
