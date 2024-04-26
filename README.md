@@ -1,7 +1,7 @@
 
 # DYAGENCY
 
-Developed during my first year, my OPP project, named DYAGENCY, enables the worker to submit and manage car orders effectively.
+OPP project developed during my first year named DYAGENCY, enables the worker to submit and manage car orders effectively.
 
 *Install NuGet - FontAwesome for the correct use of the program.
 
